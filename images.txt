@@ -1,8 +1,11 @@
 allinssl/allinssl
-awakenedy/postgres
+#awakenedy/postgres
+postgres
 redis
-awakenedy/mariadb
-awakenedy/mongodb
+#awakenedy/mariadb
+mariadb
+#awakenedy/mongodb
+mongodb
 bitnami/etcd
 nginx
 #支持私库
