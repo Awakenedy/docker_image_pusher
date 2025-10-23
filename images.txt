@@ -1,10 +1,7 @@
 allinssl/allinssl
-#awakenedy/postgres
 postgres
 redis
-#awakenedy/mariadb
 mariadb
-#awakenedy/mongodb
 mongodb
 bitnami/etcd
 nginx
