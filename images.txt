@@ -3,6 +3,7 @@ postgres
 redis
 mariadb
 mongodb
+cassandra
 bitnami/etcd
 nginx
 #支持私库
