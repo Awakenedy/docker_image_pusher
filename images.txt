@@ -4,6 +4,10 @@ redis
 mariadb
 mongodb
 cassandra
+influxdb
+clickhouse/clickhouse-server
+harisekhon/hbase
+zookeeper
 bitnami/etcd
 nginx
 #支持私库
