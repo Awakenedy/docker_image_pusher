@@ -1,8 +1,9 @@
-allinssl/allinssl
-triliumnext/trilium
+moodle:latest
+mariadb
+#allinssl/allinssl
+#triliumnext/trilium
 #postgres
 #redis
-#mariadb
 #mongodb
 #cassandra
 #influxdb
