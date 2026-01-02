@@ -1,5 +1,5 @@
 moodle:latest
-mariadb
+#mariadb
 #allinssl/allinssl
 #triliumnext/trilium
 #postgres
