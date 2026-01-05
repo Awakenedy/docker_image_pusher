@@ -1,4 +1,5 @@
-moodle:latest
+grafana
+#moodle:latest
 #mariadb
 #allinssl/allinssl
 #triliumnext/trilium
